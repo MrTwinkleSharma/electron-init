@@ -1,0 +1,11 @@
+{
+  "name": "first-desktop-app",
+  "version": "1.0.0",
+  "main": "main.js",
+  "devDependencies": {
+    "electron": "^19.0.8"
+  },
+  "scripts": {
+    "start":"electron ."
+  }
+}
